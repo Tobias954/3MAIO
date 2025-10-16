@@ -1,0 +1,9 @@
+{
+  "v0.1": {
+    "rmse": 53.85344583676594
+  },
+  "v0.2": {
+    "rmse": 53.77745406534389
+  },
+  "note": "Both versions trained on sklearn diabetes dataset with fixed random_state=42 and identical split."
+}
